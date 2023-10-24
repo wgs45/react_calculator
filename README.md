@@ -1,5 +1,3 @@
-Certainly! Below is a basic template for a README file for installing React.js:
-
 # React.js Installation Guide
 
 This guide provides instructions on how to install React.js on your local development environment.
